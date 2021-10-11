@@ -234,7 +234,7 @@ async def kmccr(ctx, amount = 10, *, name = None):
         return
       except:
         pass
-##########################
+
 
 if __name__ == "__main__":
   print(f"""
